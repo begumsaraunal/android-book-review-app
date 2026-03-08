@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_book_menu"
+        android:icon="@drawable/baseline_bookmark_add_24"
+        android:title="Add Book"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/logout_menu"
+        android:title="Log Out"
+        android:icon="@drawable/outline_exit_to_app_24"
+        app:showAsAction="never"/>
+
+</menu>

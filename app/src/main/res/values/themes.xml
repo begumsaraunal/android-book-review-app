@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BookApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#2563EB</item>
+        <item name="colorSecondary">#60A5FA</item>
+    </style>
+
+    <style name="Theme.FirebaseBookApplication" parent="Base.Theme.FirebaseBookApplication" />
+</resources>
