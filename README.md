@@ -1,4 +1,4 @@
-### 📚 [Book Review Android App](https://github.com/begumsaraunal/book-review-android-app)
+### 📚 [Book Review Android App](https://github.com/begumsaraunal/android-book-review-app))
 
 An Android application where users can share book reviews, upload book covers, and interact with other users' posts.
 
